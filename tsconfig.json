@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "commonjs",
+      "declaration": true,
+  
+      "lib": ["ES2020"],
+      "allowJs": true,
+      "sourceMap": true,
+      "outDir": "dist",
+      "removeComments": true,
+      "strict": false,
+      "esModuleInterop": true,
+      "resolveJsonModule": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "forceConsistentCasingInFileNames": true,
+  
+      "noImplicitAny": false,
+      "baseUrl": "./",
+    },
+  }
+  
